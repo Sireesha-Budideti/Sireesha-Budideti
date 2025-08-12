@@ -1,8 +1,9 @@
 # 🚀 Hello, I'm Sireesha Budideti
 
-## 💻 Full Stack Developer (MERN) | 🎨 Frontend Specialist | ⚡ Performance Testing with Apache JMeter
+## 💻 MERN Stack Developer | 🎨 Frontend Innovator | ⚡ Performance Engineering with Apache JMeter
 
-**🖌 Crafting engaging UIs | 🛠 Building scalable apps | 📈 Optimizing system performance | 🌱 Always improving**
+**✨ Turning ideas into intuitive applications | 🖌 Crafting UIs that spark interaction | 🛠 Building scalable, high-performance systems | 📊 Performance optimization & load testing for seamless user experiences | 🌱 Nurturing my skills with consistent effort to grow as a developer every day**
+
 
 ---
 
@@ -12,7 +13,7 @@
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sireesha-Budideti&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&hide=issues)
   
-![GitHub Streak](https://streak-stats.demolab.com/?user=Sireesha-Budideti&theme=radical&hide_border=true&fire=FF0000&background=0D1117)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sireesha-Budideti&theme=radical&hide_border=true&fire=FF0000&background=0D1117)
   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sireesha-Budideti&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8)
 
@@ -69,6 +70,7 @@ I have professional experience with **Apache JMeter** for performance analysis, 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🛠️ Tools & Platforms
+![Apache JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
