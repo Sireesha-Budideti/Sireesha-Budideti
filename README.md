@@ -1,6 +1,6 @@
 # 🚀 Hello, I'm Sireesha Budideti
 
-## 💻 MERN Stack Developer | 🎨 Frontend Innovator | ⚡ Performance Engineering with Apache JMeter
+## 💻 MERN Stack Developer | 🎨 Frontend Innovator | ⚡ Building Fast, Scalable, and User-First Applications
 
 **✨ Turning ideas into intuitive applications | 🖌 Crafting UIs that spark interaction | 🛠 Building scalable, high-performance systems 
 📊 Performance optimization & load testing for seamless user experiences | 🌱 Nurturing my skills with consistent effort to grow as a developer every day**
@@ -30,16 +30,18 @@
 </div>
 
 ---
-
 ## 👩‍💻 About Me
 
 I’m a recent **B.Tech graduate in Computer Science & Engineering** (Class of 2025) from Sri Venkateshwara College of Engineering and Technology, Chittoor.  
 I’m passionate about building **user-focused, high-performance web applications** using the **MERN stack**, blending clean design with scalable backend systems.
 
-During my internship at **L&T**, I worked on **performance testing** for the EIP 4.0 portal — identifying bottlenecks, applying correlation and parameterization techniques, running distributed tests, and maintaining **SLA compliance with response times under 5 seconds** using **Apache JMeter**.  
-Currently, I’m deepening my **Data Structures & Algorithms** knowledge and mastering the MERN stack by building real-world projects that challenge me to grow.
+During my internship at **L&T**, I worked on **performance testing** for the EIP 4.0 portal — identifying bottlenecks, applying correlation and parameterization techniques, running distributed tests, and maintaining **SLA compliance with response times under 5 seconds**.  
+I also used **SQL** to query and prepare datasets, integrating them into Apache JMeter test plans for realistic, data-driven performance testing.
+
+Currently, I’m sharpening my **Data Structures & Algorithms** skills and mastering advanced MERN concepts by working on challenging real-world projects.
 
 > *"I build applications that not only run smoothly but leave users smiling long after they close the tab."*
+
 
 
 ---
@@ -77,10 +79,12 @@ Currently, I’m deepening my **Data Structures & Algorithms** knowledge and mas
 
 **Performance Testing Intern** — *L&T* (Jul 2024 – Jan 2025)  
 - Conducted performance testing on the **EIP 4.0 portal**, identifying and resolving system bottlenecks.  
-- Designed and executed advanced **JMeter** test plans with correlation, parameterization, and distributed testing.  
+- Queried and processed test data using **SQL** to feed into JMeter scenarios, ensuring realistic and high-coverage testing.  
+- Designed and executed advanced **Apache JMeter** test plans with correlation, parameterization, and distributed testing.  
 - Maintained **SLA compliance** with response times consistently **below 5 seconds** under high load.  
-- Delivered Excel dashboards and visual graphs for management performance reviews.  
+- Delivered Excel dashboards and visual graphs for performance tracking and management reporting.  
 - Automated repetitive testing tasks using Beanshell scripting.
+
 
 ---
 
