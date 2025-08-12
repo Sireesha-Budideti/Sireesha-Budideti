@@ -1,6 +1,6 @@
 # 🚀 Hello, I'm Sireesha Budideti
 
-## 💻 MERN Stack Developer | 🎨 Frontend Innovator | ⚡ Building Fast, Scalable, and User-First Applications
+## 💻 MERN Stack Developer | 🎨 Frontend Innovator | ⚡ Building Fast, Scalable, and User-Friendly Applications
 
 **✨ Turning ideas into intuitive applications | 🖌 Crafting UIs that spark interaction | 🛠 Building scalable, high-performance systems 
 📊 Performance optimization & load testing for seamless user experiences | 🌱 Nurturing my skills with consistent effort to grow as a developer every day**
