@@ -1,8 +1,8 @@
 # 🚀 Hello, I'm Sireesha Budideti
 
-## 💻 Full Stack Developer (Frontend-Focused) | 🤖 Data Science Enthusiast | 🏆 Problem Solver
+## 💻 Full Stack Developer (MERN) | 🎨 Frontend Specialist | ⚡ Performance Testing with Apache JMeter
 
-**🎨 Designing intuitive UIs | 🛠️ Building scalable web apps | 📊 Turning data into insights | 🌱 Always learning**
+**🖌 Crafting engaging UIs | 🛠 Building scalable apps | 📈 Optimizing system performance | 🌱 Always improving**
 
 ---
 
@@ -32,19 +32,19 @@
 
 ## 👩‍💻 About Me
 
-🎓 **B.Tech in Computer Science & Engineering (Data Science)** — Graduated **May 2025** from Sri Venkateshwara College of Engineering and Technology, Chittoor (CGPA: 8.58)  
-💡 Passionate about **frontend-focused full stack development** and **machine learning**  
-🛠 Skilled in **React.js**, **Node.js**, **MongoDB**, **Python**, and **Apache JMeter**  
-🏆 Completed internships in **Performance Testing** at *L&T* and **Data Science** at *YBI Foundation*  
-📚 Lifelong learner exploring new frameworks, libraries, and tech trends  
+I’m a **Computer Science graduate (2025)** from **Sri Venkateshwara College of Engineering and Technology**, Chittoor (CGPA: 8.58), passionate about **creating impactful web applications** using the **MERN stack**.  
+My strength lies in designing **clean, user-friendly interfaces**, building **scalable backends**, and applying **performance testing** to ensure smooth user experiences.  
 
-> *"I blend creative design with data-driven solutions to build impactful, scalable, and visually stunning applications."*
+I have professional experience with **Apache JMeter** for performance analysis, identifying bottlenecks, maintaining SLA compliance, and delivering data-backed reports. Currently, I’m **enhancing my DSA skills** and **mastering MERN** by working on real-world projects.
 
-- 🔭 Currently working on: MERN stack applications & ML-based solutions  
-- 🌱 Learning: Advanced React Patterns & System Design  
-- 👯 Looking to collaborate on: Open-source web development projects  
-- 💬 Ask me about: React, JavaScript, Data Science, or Performance Testing  
-- ⚡ Fun fact: I can turn coffee into pixel-perfect UIs ☕🎨
+💡 **What I bring to the table:**  
+- Intuitive UI/UX design skills  
+- Scalable backend and REST API development  
+- Performance optimization with **Apache JMeter**  
+- Strong problem-solving mindset through DSA practice  
+- Team collaboration with **Git & GitHub**  
+
+> *"I aim to create applications that feel as good to use as they are to build."*
 
 ---
 
@@ -79,33 +79,27 @@
 ## 💼 Experience
 
 **Performance Testing Intern** — *L&T* (Jul 2024 – Jan 2025)  
-- Worked on the **EIP 4.0 portal** to identify and analyze **performance bottlenecks**.  
-- Designed and executed **complex JMeter test scenarios** with advanced **correlation** and **parameterization**.  
-- Performed **distributed testing** to simulate large-scale concurrent usage.  
-- Maintained **SLA compliance** for performance metrics.  
-- Created **Excel-based reports with trend graphs** for stakeholder review.  
-- Automated test workflows using **Beanshell scripting**.
-
-**Data Science & Machine Learning Intern** — *YBI Foundation* (Jul 2023 – Sep 2023)  
-- Built a **terrain classification ML model** using Python, Pandas, NumPy, and Scikit-learn.  
-- Performed **data preprocessing**, **feature engineering**, and **model evaluation**.
+- Worked on the **EIP 4.0 portal** to identify and resolve performance bottlenecks in enterprise applications.  
+- Designed and executed **complex JMeter test plans** with advanced correlation and parameterization.  
+- Conducted **distributed testing** for large-scale concurrency simulations.  
+- Maintained **SLA compliance** for performance metrics like response time & throughput.  
+- Created **Excel-based performance dashboards** with trend graphs for management insights.  
+- Automated repetitive tasks using **Beanshell scripting** for improved efficiency.
 
 ---
 
 ## 🚀 Featured Projects
 
 - **[Portfolio Website](https://sireesha-budideti.github.io/Personal-Blog/portfolio.html)** — Responsive personal portfolio showcasing skills & projects. *(HTML, CSS, JavaScript)*  
-- **[PlacementPrep – LevelUpU](https://level-up-u.vercel.app/)** — Interactive placement prep web app. *(React.js, CSS)*  
-- **[SympAI – Disease Prediction](https://github.com/Sireesha-Budideti/sympai-2)** — ML-powered healthcare assistant. *(Python, Hugging Face, Gradio)*  
-- **Hill and Valley Prediction** — ML model classifying terrain types. *(Python, Pandas, NumPy)*
+- **[PlacementPrep – LevelUpU](https://level-up-u.vercel.app/)** — Interactive placement preparation platform with responsive UI. *(React.js, CSS)*  
+- **[SympAI – Disease Prediction](https://github.com/Sireesha-Budideti/sympai-2)** — ML-powered healthcare assistant for symptom-based disease prediction. *(Python, Hugging Face, Gradio)*  
+- **Hill and Valley Prediction** — ML model classifying terrain types from dataset features. *(Python, Pandas, NumPy)*  
 
 ---
 
 ## 📫 Connect With Me
 
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sireeshabudideti@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/budideti-sireesha-328629280/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sireesha-budideti.github.io/Personal-Blog/portfolio.html)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sireesha-Budideti)
-
----
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sireeshabudideti@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/budideti-sireesha-328629280/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sireesha-budideti.github.io/Personal-Blog/portfolio.html)  
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sireesha-Budideti)  
