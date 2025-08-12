@@ -2,7 +2,8 @@
 
 ## 💻 MERN Stack Developer | 🎨 Frontend Innovator | ⚡ Performance Engineering with Apache JMeter
 
-**✨ Turning ideas into intuitive applications | 🖌 Crafting UIs that spark interaction | 🛠 Building scalable, high-performance systems | 📊 Performance optimization & load testing for seamless user experiences | 🌱 Nurturing my skills with consistent effort to grow as a developer every day**
+**✨ Turning ideas into intuitive applications | 🖌 Crafting UIs that spark interaction | 🛠 Building scalable, high-performance systems 
+📊 Performance optimization & load testing for seamless user experiences | 🌱 Nurturing my skills with consistent effort to grow as a developer every day**
 
 ---
 
