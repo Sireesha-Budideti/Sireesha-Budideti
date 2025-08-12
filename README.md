@@ -32,13 +32,14 @@
 
 ## 👩‍💻 About Me
 
-I’m a **2025 Computer Science graduate** from Sri Venkateshwara College of Engineering and Technology, Chittoor.  
-Specializing in the **MERN stack**, I create web applications that are sleek, scalable, and centered around the user experience.  
+I’m a recent **B.Tech graduate in Computer Science & Engineering** (Class of 2025) from Sri Venkateshwara College of Engineering and Technology, Chittoor.  
+I’m passionate about building **user-focused, high-performance web applications** using the **MERN stack**, blending clean design with scalable backend systems.
 
-With hands-on expertise in **Apache JMeter**, I conduct targeted performance analysis to ensure applications meet demanding SLA requirements and maintain top-tier responsiveness.  
-I’m continually improving my **Data Structures & Algorithms (DSA)** knowledge and deepening my MERN expertise through real-world, hands-on projects.
+During my internship at **L&T**, I worked on **performance testing** for the EIP 4.0 portal — identifying bottlenecks, applying correlation and parameterization techniques, running distributed tests, and maintaining **SLA compliance with response times under 5 seconds** using **Apache JMeter**.  
+Currently, I’m deepening my **Data Structures & Algorithms** knowledge and mastering the MERN stack by building real-world projects that challenge me to grow.
 
 > *"I build applications that not only run smoothly but leave users smiling long after they close the tab."*
+
 
 ---
 
