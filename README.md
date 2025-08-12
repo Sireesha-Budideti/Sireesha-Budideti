@@ -4,7 +4,6 @@
 
 **✨ Turning ideas into intuitive applications | 🖌 Crafting UIs that spark interaction | 🛠 Building scalable, high-performance systems | 📊 Performance optimization & load testing for seamless user experiences | 🌱 Nurturing my skills with consistent effort to grow as a developer every day**
 
-
 ---
 
 ## 📊 GitHub Analytics
@@ -33,19 +32,13 @@
 
 ## 👩‍💻 About Me
 
-I’m a **Computer Science graduate (2025)** from **Sri Venkateshwara College of Engineering and Technology**, Chittoor (CGPA: 8.58), passionate about **creating impactful web applications** using the **MERN stack**.  
-My strength lies in designing **clean, user-friendly interfaces**, building **scalable backends**, and applying **performance testing** to ensure smooth user experiences.  
+I’m a **2025 Computer Science graduate** from Sri Venkateshwara College of Engineering and Technology, Chittoor.  
+Specializing in the **MERN stack**, I create web applications that are sleek, scalable, and centered around the user experience.  
 
-I have professional experience with **Apache JMeter** for performance analysis, identifying bottlenecks, maintaining SLA compliance, and delivering data-backed reports. Currently, I’m **enhancing my DSA skills** and **mastering MERN** by working on real-world projects.
+With hands-on expertise in **Apache JMeter**, I conduct targeted performance analysis to ensure applications meet demanding SLA requirements and maintain top-tier responsiveness.  
+I’m continually improving my **Data Structures & Algorithms (DSA)** knowledge and deepening my MERN expertise through real-world, hands-on projects.
 
-💡 **What I bring to the table:**  
-- Intuitive UI/UX design skills  
-- Scalable backend and REST API development  
-- Performance optimization with **Apache JMeter**  
-- Strong problem-solving mindset through DSA practice  
-- Team collaboration with **Git & GitHub**  
-
-> *"I aim to create applications that feel as good to use as they are to build."*
+> *"I build applications that not only run smoothly but leave users smiling long after they close the tab."*
 
 ---
 
@@ -70,32 +63,31 @@ I have professional experience with **Apache JMeter** for performance analysis, 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🛠️ Tools & Platforms
-![Apache JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Apache JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 
 ---
 
 ## 💼 Experience
 
 **Performance Testing Intern** — *L&T* (Jul 2024 – Jan 2025)  
-- Worked on the **EIP 4.0 portal** to identify and resolve performance bottlenecks in enterprise applications.  
-- Designed and executed **complex JMeter test plans** with advanced correlation and parameterization.  
-- Conducted **distributed testing** for large-scale concurrency simulations.  
-- Maintained **SLA compliance** for performance metrics like response time & throughput.  
-- Created **Excel-based performance dashboards** with trend graphs for management insights.  
-- Automated repetitive tasks using **Beanshell scripting** for improved efficiency.
+- Conducted performance testing on the **EIP 4.0 portal**, identifying and resolving system bottlenecks.  
+- Designed and executed advanced **JMeter** test plans with correlation, parameterization, and distributed testing.  
+- Maintained **SLA compliance** with response times consistently **below 5 seconds** under high load.  
+- Delivered Excel dashboards and visual graphs for management performance reviews.  
+- Automated repetitive testing tasks using Beanshell scripting.
 
 ---
 
 ## 🚀 Featured Projects
 
-- **[Portfolio Website](https://sireesha-budideti.github.io/Personal-Blog/portfolio.html)** — Responsive personal portfolio showcasing skills & projects. *(HTML, CSS, JavaScript)*  
-- **[PlacementPrep – LevelUpU](https://level-up-u.vercel.app/)** — Interactive placement preparation platform with responsive UI. *(React.js, CSS)*  
-- **[SympAI – Disease Prediction](https://github.com/Sireesha-Budideti/sympai-2)** — ML-powered healthcare assistant for symptom-based disease prediction. *(Python, Hugging Face, Gradio)*  
-- **Hill and Valley Prediction** — ML model classifying terrain types from dataset features. *(Python, Pandas, NumPy)*  
+- **[Portfolio Website](https://sireesha-budideti.github.io/Personal-Blog/portfolio.html)** — Personal portfolio showcasing skills, experience, and projects. *(HTML, CSS, JavaScript)*  
+- **[PlacementPrep – LevelUpU](https://level-up-u.vercel.app/)** — Responsive placement preparation platform with interactive quizzes and progress tracking. *(React.js, CSS)*  
+- **[SympAI – Disease Prediction](https://github.com/Sireesha-Budideti/sympai-2)** — ML-powered healthcare assistant predicting diseases based on symptoms. *(Python, Hugging Face, Gradio)*  
+- **Hill and Valley Prediction** — ML model for classifying terrain types from dataset features. *(Python, Pandas, NumPy)*  
 
 ---
 
