@@ -93,7 +93,7 @@ Currently, I’m sharpening my **Data Structures & Algorithms** skills and maste
 - **[Portfolio Website](https://sireesha-budideti.github.io/Personal-Blog/portfolio.html)** — Personal portfolio showcasing skills, experience, and projects. *(HTML, CSS, JavaScript)*  
 - **[PlacementPrep – LevelUpU](https://level-up-u.vercel.app/)** — Responsive placement preparation platform with interactive quizzes and progress tracking. *(React.js, CSS)*  
 - **[SympAI – Disease Prediction](https://youtu.be/PSXaE6Pt6zA?si=_oriBoGypeXJLDF4)** — ML-powered healthcare assistant predicting diseases based on symptoms. *(Python, Hugging Face, Gradio)*  
-- **[Hill and Valley Prediction] ()** — ML model for classifying terrain types from dataset features. *(Python, Pandas, NumPy)*  
+- **[Hill and Valley Prediction] (https://mybinder.org/v2/gh/Sireesha-Budideti/Hill-Valley_Prediction/main?filepath=Copy_of_Hill_Valley_Prediction.ipynb)** — ML model for classifying terrain types from dataset features. *(Python, Pandas, NumPy)*  
 
 ---
 
